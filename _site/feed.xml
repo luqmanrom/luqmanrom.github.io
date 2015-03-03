@@ -4,19 +4,21 @@
     <title>/dev/null</title>
     <description>Random thoughts
 </description>
-    <link>http//:luqmanrom.github.io/</link>
-    <atom:link href="http//:luqmanrom.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Mar 2015 15:43:44 -0600</pubDate>
-    <lastBuildDate>Tue, 03 Mar 2015 15:43:44 -0600</lastBuildDate>
+    <link>http//luqmanrom.github.io/</link>
+    <atom:link href="http//luqmanrom.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 03 Mar 2015 16:20:06 -0600</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2015 16:20:06 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Here is my first post!</title>
         <description>&lt;p&gt;Do I have to explain more? Duhh&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http//luqmanrom.github.io/assets/i-20.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Mar 2015 20:35:08 -0600</pubDate>
-        <link>http//:luqmanrom.github.io/2015/03/02/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http//:luqmanrom.github.io/2015/03/02/welcome-to-jekyll.html</guid>
+        <link>http//luqmanrom.github.io/2015/03/02/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http//luqmanrom.github.io/2015/03/02/welcome-to-jekyll.html</guid>
         
         
       </item>
