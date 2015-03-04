@@ -28,9 +28,7 @@ Follow these basic steps . Each step is described in greater detail below
 **1. Pay I-901 Student and Exchange Visitor Information System (SEVIS) fee**  
 Visit this [website](https://www.fmjfee.com/i901fee/) to pay the fee. Prepare your I-20/ DS-2019 and also a credit card to pay for the fee. The fee for the year 2015 is $200 USD. For sponsored students, this can be reimbursed later from your sponsor.  Here are some information that you need to know to fill out the form. 
 
-![I-20: Credit to Connecticut State University](/assets/i-20.png)
-
-
+<img src="/assets/i-20.png" height="528px" width="441px">
 
 **2. Prepare digital photo of 2 x 2 inches (51 x 51 mm) with the white background**  
 This digital photo is needed to fill out the DS-160 form in the next step. The requirements of the photo are very strict. Please check the following [website](http://travel.state.gov/content/visas/english/general/photos.html) to learn additional requirements of the photo. Any photo that does not meet the requirements will be rejected. 
@@ -58,6 +56,6 @@ for them to stamp the visa in your passport.
   
   
 
-If you have further questions, feel free to send me email at luqmanrom@gmail.com. I will add more details if anything is missed. Thanks. 
+If you have further questions, feel free to send me email at luqmanrom@gmail.com. I will add more details if anything is missing. Thanks. 
 
 
