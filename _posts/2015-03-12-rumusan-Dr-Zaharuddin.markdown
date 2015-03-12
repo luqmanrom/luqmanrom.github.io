@@ -15,15 +15,15 @@ Rumusan daripada Dr Zaharuddin Abd Rahman
 
 * Perlu tengok pelbagai perkara. Memang benar ada yang mengharamkan cukai secara general.  
 
-	* Sesungguhnya penguasa yang mengenakan ‘Maks’ (sebahagian menterjemahkannya sebagai cukai) adalah di dalam neraka. ( Riwayat Ahmad : Sohih menurut Al-Suyuti)
+	* _Sesungguhnya penguasa yang mengenakan ‘Maks’ (sebahagian menterjemahkannya sebagai cukai) adalah di dalam neraka. ( Riwayat Ahmad : Sohih menurut Al-Suyuti)_
 
-	* Telah datang kepada Nabi seorang wanita yang berzina yang ingin dilaksanakan hukuman had ke atasnya tetapi baginda menjawab, “Demi jiwaku pada tangan Allah, seseungguhnya wanita itu telah bertaubat yang **sekiranya seorang pemungut cukai bertaubat juga akan diampunkan baginya**. ( Riwayat Muslim : Sohih)
+	* _Telah datang kepada Nabi seorang wanita yang berzina yang ingin dilaksanakan hukuman had ke atasnya tetapi baginda menjawab, “Demi jiwaku pada tangan Allah, seseungguhnya wanita itu telah bertaubat yang **sekiranya seorang pemungut cukai bertaubat juga akan diampunkan baginya**. ( Riwayat Muslim : Sohih)_
 
 
 
 * Walaubagaimanapun kedua dua hadis ni perlu kita lihat dalam konteks. Ada dalil yang mengharuskan pula.
-	* Sesungguhnya dalam pemilikan harta kita, ada pemilikan/hak orang lain yang patut kita berikan selain zakat. 
 
+	* _Sesungguhnya pada harta itu ada kewajiban lain selain zakat (Riwayat At-Tirmidzi : Dhoif menurut Al-Suyuti, Albani,)_
 
 * Perlu lihat objektif dan target. Tidak dinafikan boleh berubah hukum berdasarkan zaman dan keadaan, tempat. 
 
@@ -75,3 +75,14 @@ Perlukah situasi Malaysia sekarang mengenakan cukai?
 * Kena pastikan GST tidak membawa mudarat yang lebih besar daripada mudarat yang cuba dirawat
 
 * Dengan semua ini, GST adalah harus tetapi dengan syarat syarat yang ditetapkan. 
+
+
+#### _Lain lain sumber sebagai rujukan tambahan_
+
+
+* [Pro & Kontra Cukai GST - Dr. Zaharuddin Abd Rahman](https://www.youtube.com/watch?v=EZ0q623dHac)
+* [Cukai, GST, Amanah & Hukum Islam ](http://zaharuddin.net/senarai-lengkap-artikel/3/1030-cukai-gst-hukum-a-amanah.html)
+
+
+
+###### To contribute, submit the  pull request at [repo](https://github.com/luqmanrom/luqmanrom.github.io) or email to luqmanrom@gmail.com
