@@ -6,8 +6,14 @@ date:   2015-03-12 16:42:08
 
 Rumusan daripada Dr Zaharuddin Abd Rahman
 -----------------------
+<style>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/89i7siVA1so" frameborder="0" allowfullscreen></iframe>
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+</style>
+
+
+<div class='embed-container'><iframe src='http://www.youtube.com/embed/89i7siVA1so' frameborder='0' allowfullscreen></iframe></div>
 
 <br>
 
