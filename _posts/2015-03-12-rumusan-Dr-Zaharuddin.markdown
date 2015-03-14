@@ -43,7 +43,8 @@ Perlukah situasi Malaysia sekarang mengenakan cukai?
 * Tiada persoalan hukum dalam cukai pendapatan sekarang. Cukai pendapatan itu harus kerana mudarat tanpa cukai pendapatan itu banyak. Hampir separuh hasil negara datang daripada cukai. Lebih kurang RM 135 billion. 
 
 * Berkenaan GST, perlu lihat ada keperluan berdasarkan sebelum ini. Dalam data semasa, nampak seolah ada keperluan. 
-	* Malaysia nampak mempunyai masalah fiskal yang boleh menjejaskan pelaburan asing dalam Malaysia. Menurut Fitch rating, kini taraf A. Sekiranya tidak diperbaiki, boleh jatuh ke BBB
+	* Malaysia nampak mempunyai masalah fiskal yang boleh menjejaskan pelaburan asing dalam Malaysia. Menurut Fitch rating, kini taraf A. Sekiranya tidak diperbaiki, boleh jatuh ke BBB. 
+    * Sekiranya rating Malaysia teruk, ia boleh menjejaskan keyakinan pelaburan terhadap pasaran Malaysia. Kesannya akan terkena kepada seluruh rakyat Malaysia terutama sistem kewangan yang kemudiannya merebak kepada rakyat biasa. (Akan disertakan sumber yang diterangkan dengan lebih teliti)
     * Malaysia ada hutang 54% GDP. Kemungkinan sudah sampai 55% GDP dalam keadaan MYR jatuh kebelakangan ini
     * Hutang isi rumah  87% dari GDP
     * Nisbah hutang dan hasil adalah 250&
@@ -66,17 +67,23 @@ Perlukah situasi Malaysia sekarang mengenakan cukai?
 
 * Cadangan keutamaan kerajaan
 	* Penjimatan kos pengurusan
+        * Malaysia mempunyai 25 kementerian termasuk Jabatan Perdana Menteri. Sekiranya setiap kementerian dipotong sebahagian bajet, banyak penjimatan boleh berlaku. Kementerian perlu bijak adapt dan menguruskan pemotongan bajet ini.
+        * RM 500 juta * 25 kementerian = RM 12.5 billion
 	* Ketirisan
     * Capital Gain Tax
+        * Contoh, keuntungan jual beli saham tidak dicukai. Kebanyakan yang terlibat dalam saham merupakan golongan atasan. 
 
 * Dalam persoalan zakat, hanya yang lebih cukup haul kena bayar zakat. GST pukul rata terhadap semua
+    * Cukai GST bersifat regressive tax. Perlu ada zero rated dan exempetd tax yang lebih teliti & lebih tepati sasaran agar orang pendapatan rendah tidak lebih terbeban.
 * Kerajaan buat beberapa perkara dalam berhadapan kesusahan rakyat menangani GST
 	* Barang asasi dikecualikan cukai
     * Cukai pendapatan diturunkan bagi gaji RM 4000 dan keatas
-    * Easy complain - Peniaga yang mengambil kesempatan
-    * Anti Profiteering Act
+    * Easy complain - Memudahkan pengguna melaporkan peniaga yang mengambil kesempatan menaikkan harga
+    * Anti Profiteering Act/ Akta Kawalan Harga Barang  
+        * RM 500,000 bagi kesalahan pertama naikkan harga barang lebih dari sepatutnya, RM 1 juta kesalahan kedua.
+    *  Tindakan kerajaan wujudkan Shoppers guide dan tanda aras harga untuk memudahkan pelanggan sedari harga normal atau tidak. Sekiranya tidak, boleh dilaporkan dan peniaga berdepan risiko didenda mengikut akta
     
-* Kena pastikan perlaksanan kawalan berkesan dan bukan hanya diatas kertas.
+* Namun, perkara yang paling penting adalah memastikan perlaksanan kawalan berkesan dan bukan hanya diatas kertas.
 
 * Kena pastikan GST tidak membawa mudarat yang lebih besar daripada mudarat yang cuba dirawat
 
