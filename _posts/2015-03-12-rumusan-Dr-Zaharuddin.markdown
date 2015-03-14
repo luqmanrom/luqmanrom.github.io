@@ -19,7 +19,7 @@ Rumusan daripada Dr Zaharuddin Abd Rahman
 
 * Berkenaan hukum GST dan perlaksanaanysa di Malaysia, dia bukan satu persoalan yang straightforward yang kita boleh jatuhkan hukum haram, ataupon halal begitu sahaja. 
 
-* Perlu tengok pelbagai perkara. Memang benar ada yang mengharamkan cukai secara general.  
+* Perlu tengok pelbagai perkara. Memang benar ada dalil yang mengharamkan cukai secara general.  
 
 	* _Sesungguhnya penguasa yang mengenakan ‘Maks’ (sebahagian menterjemahkannya sebagai cukai) adalah di dalam neraka. ( Riwayat Ahmad : Sohih menurut Al-Suyuti)_
 
@@ -33,14 +33,14 @@ Rumusan daripada Dr Zaharuddin Abd Rahman
 
 * Perlu lihat objektif dan target. Tidak dinafikan boleh berubah hukum berdasarkan zaman dan keadaan, tempat. 
 
-* Contoh, harta rampasan diberikan kepada pejuang perang di zaman Nabi dan tetapi Omar Al Khattab tidak membahagikan ketika zaman pemerintahannya
+* Contoh, harta rampasan diberikan kepada pejuang perang di zaman Nabi dan Saidina Abu Bakar tetapi Omar Al Khattab tidak membahagikan ketika zaman pemerintahannya disebabkan keadaan semasa ketika itu. 
 
 * Tidak boleh secara mudah gunakan dalil hukum jizyah. Kalau guna hukum itu, hukum itu terpakai untuk semua jenis cukai bukan sahaja GST. Tiada cukai adalah perkara terbaik tetapi keadaan tidak mengizinkan.
 
 Perlukah situasi Malaysia sekarang mengenakan cukai? 
 ----------------------------------------------------
 
-* Tiada persoalan hukum dalam cukai pendapatan sekarang. Cukai pendapatan itu harus kerana mudarat tanpa cukai pendapatan itu banyak. Hampir separuh hasil negara datang daripada cukai. Lebih kurang RM 135 billion. 
+* Tiada persoalan hukum dalam cukai pendapatan sekarang. Cukai pendapatan itu harus kerana mudarat tanpa cukai pendapatan itu banyak. Hampir separuh hasil negara datang daripada cukai. Lebih kurang RM 135 billion. Kehilangan sumber pendapatan sebanyak ini merupakan satu benda yang boleh menghuru-harakan negara. 
 
 * Berkenaan GST, perlu lihat ada keperluan berdasarkan sebelum ini. Dalam data semasa, nampak seolah ada keperluan. 
 	* Malaysia nampak mempunyai masalah fiskal yang boleh menjejaskan pelaburan asing dalam Malaysia. Menurut Fitch rating, kini taraf A. Sekiranya tidak diperbaiki, boleh jatuh ke BBB. 
@@ -56,8 +56,13 @@ Perlukah situasi Malaysia sekarang mengenakan cukai?
     * Masalah kewangan GLC seperti 1MDB
     
 * Kerajaan sasarkan hasil RM 23.1 bil dari GST tahun 2015 dan RM 32 Bil tahun 2016. Berbanding RM 17 bil dari cukai SST tahun 2014.
+
+* Pandangan peribadi Dr Zaharuddin, nampak ada keperluan dan GST jatuh hukum harus. Sekiranya tidak diperbaiki, akan terjadi mudarat terhadap semua rakyat Malaysia.
     
-* Pandangan peribadi Dr Zaharuddin, nampak ada keperluan dan GST jatuh hukum harus. Sekiranya tidak diperbaiki, akan terjadi mudarat terhadap semua rakyat Malaysia. Tetapi ada persoalan yang berkaitan: 
+Persoalan yang timbul
+---------------------
+
+* Tetapi ada persoalan yang berkaitan: 
 	* Kenapa ada hasil negara yang banyak, kenapa terjadi keadaan sekarang berlaku?  
     * Apakah GST patut jadi prioriti untuk kerajaan tambah pendapatan atau ada kaedah lain yang lebih utama?
 	* Sekiranya GST diperkenalkan, dapatkah masalah ekonomi diselesaikan?   
@@ -65,24 +70,36 @@ Perlukah situasi Malaysia sekarang mengenakan cukai?
     * Jika dah terpaksa juga kuatkuasa GST maka apakah item yang perlu dipantau secara berterusan oleh rakyat dan kerajaan?
     
 
-* Cadangan keutamaan kerajaan
-	* Penjimatan kos pengurusan
-        * Malaysia mempunyai 25 kementerian termasuk Jabatan Perdana Menteri. Sekiranya setiap kementerian dipotong sebahagian bajet, banyak penjimatan boleh berlaku. Kementerian perlu bijak adapt dan menguruskan pemotongan bajet ini.
-        * RM 500 juta * 25 kementerian = RM 12.5 billion
-	* Ketirisan
-    * Capital Gain Tax
-        * Contoh, keuntungan jual beli saham tidak dicukai. Kebanyakan yang terlibat dalam saham merupakan golongan atasan. 
+Cadangan perkara yang perlu diutamakan kerajaan
+-----------------------------------------------
 
-* Dalam persoalan zakat, hanya yang lebih cukup haul kena bayar zakat. GST pukul rata terhadap semua
-    * Cukai GST bersifat regressive tax. Perlu ada zero rated dan exempetd tax yang lebih teliti & lebih tepati sasaran agar orang pendapatan rendah tidak lebih terbeban.
+* Penjimatan kos pengurusan
+    * Malaysia mempunyai 25 kementerian termasuk Jabatan Perdana Menteri. Sekiranya setiap kementerian dipotong sebahagian bajet, banyak penjimatan boleh berlaku. Kementerian perlu bijak adapt dan menguruskan pemotongan bajet ini.
+        * RM 500 juta * 25 kementerian = RM 12.5 billion
+* Ketirisan
+* Capital Gain Tax
+    * Contoh, keuntungan jual beli saham tidak dicukai. Kebanyakan yang terlibat dalam saham merupakan golongan atasan. 
+
+* Kurangkan beban rakyat menghadapi GST
+    * Cukai GST bersifat regressive tax. Dalam bahasa mudah cukai yang dikenakan pada semua golongan pada kadar yang sama. 
+    * Dalam persoalan zakat, hanya yang lebih cukup haul kena bayar zakat. GST pukul rata terhadap semua
+    * Perlu ada zero rated dan exempetd tax yang lebih teliti & lebih tepati sasaran agar orang pendapatan rendah tidak lebih terbeban apabila membeli keperluan asas.  
+
+Langkah yang sudah diumumkan untuk mengurangkan beban GST
+---------------------------------------------------------
+
 * Kerajaan buat beberapa perkara dalam berhadapan kesusahan rakyat menangani GST
 	* Barang asasi dikecualikan cukai
-    * Cukai pendapatan diturunkan bagi gaji RM 4000 dan keatas
+    * Cukai pendapatan diturunkan bagi gaji RM 4000 dan keatas. Tetapi ramai kakitangan sebenarnya mempunyai gaji kurang daripada RM 4000. 
     * Easy complain - Memudahkan pengguna melaporkan peniaga yang mengambil kesempatan menaikkan harga
     * Anti Profiteering Act/ Akta Kawalan Harga Barang  
         * RM 500,000 bagi kesalahan pertama naikkan harga barang lebih dari sepatutnya, RM 1 juta kesalahan kedua.
     *  Tindakan kerajaan wujudkan Shoppers guide dan tanda aras harga untuk memudahkan pelanggan sedari harga normal atau tidak. Sekiranya tidak, boleh dilaporkan dan peniaga berdepan risiko didenda mengikut akta
-    
+ 
+
+Penutup
+-------
+
 * Namun, perkara yang paling penting adalah memastikan perlaksanan kawalan berkesan dan bukan hanya diatas kertas.
 
 * Kena pastikan GST tidak membawa mudarat yang lebih besar daripada mudarat yang cuba dirawat
@@ -98,4 +115,6 @@ Perlukah situasi Malaysia sekarang mengenakan cukai?
 
 
 
-###### To contribute, submit the  pull request at [repo](https://github.com/luqmanrom/luqmanrom.github.io) or email to luqmanrom@gmail.com
+###### To contribute, submit the  pull request at the [repo](https://github.com/luqmanrom/luqmanrom.github.io) or email to luqmanrom@gmail.com
+
+
