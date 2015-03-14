@@ -45,19 +45,19 @@ Perlukah situasi Malaysia sekarang mengenakan cukai?
 * Berkenaan GST, perlu lihat ada keperluan berdasarkan sebelum ini. Dalam data semasa, nampak seolah ada keperluan. 
 	* Malaysia nampak mempunyai masalah fiskal yang boleh menjejaskan pelaburan asing dalam Malaysia. Menurut Fitch rating, kini taraf A. Sekiranya tidak diperbaiki, boleh jatuh ke BBB. 
     * Sekiranya rating Malaysia teruk, ia boleh menjejaskan keyakinan pelaburan terhadap pasaran Malaysia. Kesannya akan terkena kepada seluruh rakyat Malaysia terutama sistem kewangan yang kemudiannya merebak kepada rakyat biasa. (Akan disertakan sumber yang diterangkan dengan lebih teliti)
-    * Malaysia ada hutang 54% GDP. Kemungkinan sudah sampai 55% GDP dalam keadaan MYR jatuh kebelakangan ini
-    * Hutang isi rumah  87% dari GDP
-    * Nisbah hutang dan hasil adalah 250&
+    * Malaysia ada hutang yang sangat membimbangkan di paras 54% daripada GDP. Kemungkinan sudah sampai 55% GDP dalam keadaan MYR jatuh kebelakangan ini. 
+    * Hutang isi rumah  87% dari GDP. Sangat serius. 
+    * Nisbah hutang dan hasil adalah 250%
     * Malaysia ada defisit 16 tahun berturut-turut
-    * Malaysia bergantung kepada dividen hasil petroleum melalui Petronas. Harga minyak dunia tidak stabil kini menyebabkan jumlah dividen semakin berkurangan
+    * Malaysia bergantung kepada dividen hasil petroleum melalui Petronas. Harga minyak dunia tidak stabil kini menyebabkan jumlah dividen semakin berkurangan. Pulangan kepada kerajaan makin sedikit
     * Cukai SST ada kelemahan dari segi isu pertindihan. Peniaga dapat banyak, kerajaan dapat sedikit. GST mampu perbaiki kelemahan SST
     * Lending appetite menurun
-    * Nilai matawang Ringgit Malaysia menurun
-    * Masalah kewangan GLC seperti 1MDB
+    * Nilai matawang Ringgit Malaysia menurun.
+    * Masalah kewangan GLC seperti 1MDB yang dijamin kerajaan
     
 * Kerajaan sasarkan hasil RM 23.1 bil dari GST tahun 2015 dan RM 32 Bil tahun 2016. Berbanding RM 17 bil dari cukai SST tahun 2014.
 
-* Pandangan peribadi Dr Zaharuddin, nampak ada keperluan dan GST jatuh hukum harus. Sekiranya tidak diperbaiki, akan terjadi mudarat terhadap semua rakyat Malaysia.
+* Pandangan peribadi Dr Zaharuddin, nampak ada keperluan dan GST jatuh hukum harus. Sekiranya tidak diperbaiki, akan terjadi mudarat terhadap semua rakyat Malaysia. 
     
 Persoalan yang timbul
 ---------------------
@@ -77,6 +77,7 @@ Cadangan perkara yang perlu diutamakan kerajaan
     * Malaysia mempunyai 25 kementerian termasuk Jabatan Perdana Menteri. Sekiranya setiap kementerian dipotong sebahagian bajet, banyak penjimatan boleh berlaku. Kementerian perlu bijak adapt dan menguruskan pemotongan bajet ini.
         * RM 500 juta * 25 kementerian = RM 12.5 billion
 * Ketirisan
+    * Ketirisan yang melampau seperti yang dilaporkan dalam laporan Audit. Perlu dibanteras secara serius.
 * Capital Gain Tax
     * Contoh, keuntungan jual beli saham tidak dicukai. Kebanyakan yang terlibat dalam saham merupakan golongan atasan. 
 
