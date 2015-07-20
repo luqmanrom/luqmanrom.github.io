@@ -35,3 +35,5 @@ date:   2015-07-20 3:42:08
 ####12. Apakah pandangan sekiranya ibu bapa dan keluarga rapat mencampuri urusan peribadi dan masalah rumah tangga?
 
 ####13. Apakah pandangan mengenai isteri yang berkerjaya? 
+
+####14. Apakah pandangan mengenai pasangan yang duduk berasingan disebabkan kerjaya/pendidikan?
