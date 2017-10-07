@@ -44,6 +44,10 @@ Raziq,
 
 Kau selalu cakap nak jadi macam aku. Nak boleh buat programming mcm mcm. Tapi kau tatau, aku yang sebenarnya nak jadi macam kau Ziq. Kau kuat. Kau independent.  Kau bertanggungjawab. Kau penyayang. Kau lah antara lelaki paling aku admire sepanjang hidup aku. Aku menyesal aku tak cakap ni waktu kau hidup Ziq. 
 
+Raziq,
+
+It was an honor untuk berpeluang usung jenazah kau, mandikan jenazah kau, solatkan jenazah kau kat depan, kambus kubur kau, siram kubur kau. Kau dah takde, tapi kau masih buat baik kat aku Ziq. Terima kasih Ziq. 
+
 Raziq, 
 
 Aku barai teruk Ziq. Aku sayang kau. Aku rindu kau. Tak dapat aku tulis semua. Apa aku tulis ini hanyalah untuk aku luahkan perasaan sebelum aku teruskan hidup Ziq. Kita jumpa lagi disana k? Terima kasih Ziq for everything. Banyak sangat kenangan kita. Disinilah pengakhirannya. 16 tahun persahabatan di dunia ini
