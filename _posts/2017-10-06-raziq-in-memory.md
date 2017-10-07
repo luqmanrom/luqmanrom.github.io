@@ -49,9 +49,10 @@ Raziq,
 Aku barai teruk Ziq. Aku sayang kau. Aku rindu kau. Tak dapat aku tulis semua. Apa aku tulis ini hanyalah untuk aku luahkan perasaan sebelum aku teruskan hidup Ziq. Kita jumpa lagi disana k? Terima kasih Ziq for everything. Banyak sangat kenangan kita. Disinilah pengakhirannya. 16 tahun persahabatan di dunia ini
 
 In memory, 
-Allaharyam Shahirul Raziqin Bin Rahmah
 
-6/6/1992 @ 11.05 AM - 6/10/2017 @ 11.00 AM
+**Allahyarham Shahirul Raziqin Bin Rahmah**
+
+**6/6/1992 @ 11.05 AM - 6/10/2017 @ 11.00 AM**
 
 Tulus ikhlas, 
 Luqman Wom
