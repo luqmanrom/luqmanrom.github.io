@@ -75,7 +75,7 @@ Tulus ikhlas,
 Luqman Wom
 
 
-More: https://m.facebook.com/story.php?story_fbid=1431600076889204&id=278239472225276
+More: [News](https://m.facebook.com/story.php?story_fbid=1431600076889204&id=278239472225276)
 
 
 
