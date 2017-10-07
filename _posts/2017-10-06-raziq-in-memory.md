@@ -4,6 +4,9 @@ title:  "Raziqin - In memory (1992-2017)"
 date:   2017-10-06 16:42:08
 ---
 
+<img src="/assets/raziq-b-w.jpg" width="441px">
+
+
 Raziq....
 
 Aku ambil masa untuk luahkan apa aku rasa, part of aku masih tak percaya apa yang terjadi. Tapi, aku terpaksa akur dengan takdir Tuhan, yang kau dah takde Raziq. Aku terpaksa akur yang kenangan kita di dunia ini telah pon berakhir dengan kematian kau. Yang tinggal hanyalah kenangan yang lepas.
