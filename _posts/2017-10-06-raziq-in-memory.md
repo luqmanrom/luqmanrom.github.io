@@ -65,13 +65,17 @@ In memory,
 
 **Allahyarham Shahirul Raziqin Bin Rahmah**
 
-**6/6/1992 @ 11.05 AM - 6/10/2017 @ 11.00 AM**
+6/6/1992 @ 11.05 AM - 6/10/2017 @ 11.00 AM
+
+Kemalangan Maut KM 217.3 LebuhRaya Utara Selatan
+
+Jenazah **#6** Perkuburan Bandar Bukit Puchong 2
 
 Tulus ikhlas, 
 Luqman Wom
 
 
-
+More: https://m.facebook.com/story.php?story_fbid=1431600076889204&id=278239472225276
 
 
 
