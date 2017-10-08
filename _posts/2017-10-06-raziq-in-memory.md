@@ -55,7 +55,7 @@ Kau selalu cakap nak jadi macam aku. Nak boleh buat programming mcm mcm. Tapi ka
 
 Raziq,
 
-It was an honor untuk berpeluang usung jenazah kau, mandikan jenazah kau, solatkan jenazah kau kat depan, kambus kubur kau, siram kubur kau. Kau dah takde, tapi kau masih buat baik kat aku Ziq. Terima kasih Ziq. 
+You are always with me whenever I need you. From the smallest thing, to the biggest thing. And aku make sure I was there on every urusan jenazah kau to pay my very last respect before you leave us forever. It was an honor untuk berpeluang usung jenazah kau, mandikan jenazah kau, solatkan jenazah kau kat depan, kambus kubur kau, siram kubur kau. Kau dah takde, tapi kau masih buat baik kat aku Ziq. Terima kasih Ziq. 
 
 Raziq, 
 
