@@ -63,7 +63,13 @@ You are always with me whenever I need you. From the smallest thing, to the bigg
 
 Raziq, 
 
-Aku barai teruk Ziq. Aku sayang kau. Aku rindu kau. Tak dapat aku tulis semua. Apa aku tulis ini hanyalah untuk aku luahkan perasaan sebelum aku teruskan hidup Ziq. Kita jumpa lagi disana k? Terima kasih Ziq for everything. Banyak sangat kenangan kita. Disinilah pengakhirannya. 16 tahun persahabatan di dunia ini
+Hati aku remuk Ziq. Nama kau disebut berbinkan mak kau Ziq. Aku kenal kau sebagai Shahirul Raziqin bin Shahiri tapi kau kini Shahirul Raziqin bin Rahmah. Damailah Ziq kau kat sana. Kau rehat lah di tempat yang tertinggi yang Allah sediakan untuk kau. 
+
+Raziq, 
+
+Aku barai teruk Ziq. Aku sayang kau. Aku rindu kau. Tak dapat aku tulis semua. Apa aku tulis ini hanyalah untuk aku luahkan perasaan sebelum aku teruskan hidup Ziq. Kita jumpa lagi disana k? Terima kasih Ziq for everything. Banyak sangat kenangan kita. Disinilah pengakhirannya. 16 tahun persahabatan di dunia ini. 
+
+Semoga Allah ampunkan dosa kau, kasihani kau, beri ganjaran sebesar besarnya. Amin. 
 
 In memory, 
 
