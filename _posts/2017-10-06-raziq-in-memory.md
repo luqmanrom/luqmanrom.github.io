@@ -25,6 +25,10 @@ Raziq,
 
 Kita sekolah sama sama dari kecik Ziq. Lepas sekolah kebangsaan pagi, kita pergi sekolah agama petang. Lepas sekolah agama petang, kita main taman. Naik van sama sama, transit Tadika Seri Ayu sama sama, mandi sama sama. Balik sekolah kau carry aku naik basikal. Kangaroo stand hilang, kau suruh aku duduk kat handle. Kau tak pernah complain Ziq. Kau buat apa je untuk aku Ziq. Terima kasih Ziq.
 
+Raziq, 
+
+Dulu kita selalu main basikal setiap petang. Kita pusing pusing taman. Bila basikal aku rosak, kau lah baiki kat rumah kau. Bila kita tak boleh baiki, kita jalan sama sama pergi Batu 14 baiki basikal dengan Apek Batu 14. Kau bawak basikal, tapi kau jalan sama sama dengan aku. Sikit pon kau tak mengeluh Ziq. 
+
 Raziq,
 
 Kita nak masuk RMC sama sama. Kau tau aku bukan athletic macam kau. Kau ajak aku jogging petang petang. Aku tak suka lari Ziq. Kau kasi aku semangat lari sama sama dengan kau. Kau ikut pace aku yang macam siput. Kau tak ejek aku. Kau push aku sampai lah aku fit dapat pecut kau. Aku terkilan pagi kau terkeluar dalam pemilihan RMC tu. Kita lepas ujian fizikal sama sama Ziq. Kau lah yang kasi semangat kat aku, tapi kau tak dapat lepas stage ujian IQ. Kau peluk aku, kau cakap jangan sia sia kan, kau cakap kau tau aku boleh. Tiap kali cuti kau kasi aku semangat cakap aku boleh. Terima kasih Ziq.
