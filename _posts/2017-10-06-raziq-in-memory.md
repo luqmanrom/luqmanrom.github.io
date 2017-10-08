@@ -82,7 +82,11 @@ Kemalangan Maut KM 217.3 LebuhRaya Utara Selatan
 Jenazah **#6** Perkuburan Bandar Bukit Puchong 2
 
 Tulus ikhlas, 
+
 Luqman Wom
+
+<img src="/assets/raziq-1-b-w.jpg" width="441px">
+
 
 
 More: [News](https://m.facebook.com/story.php?story_fbid=1431600076889204&id=278239472225276)
