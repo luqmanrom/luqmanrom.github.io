@@ -1,0 +1,656 @@
+---
+layout: post
+title:  "Koleksi Doa daripada Quran"
+date:   2019-05-23 22:49:08
+---
+
+
+
+<br/>
+
+
+<style type="text/css">
+	
+blockquote {
+	font-size: 25px;
+}
+
+h3	{
+	margin-top: 40px;
+}
+
+</style>
+
+
+
+
+<h3>Doa Surah Al-Baqarah, Ayat 127-128</h3>
+<blockquote>
+	رَبَّنَا تَقَبَّلْ مِنَّا ۖ إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُرَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِنْ ذُرِّيَّتِنَا أُمَّةً مُسْلِمَةً لَكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا ۖ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ
+
+</blockquote>
+
+<blockquote>
+	“Ya Allah, terimalah bakti kami. Sungguh Engkau Maha Mendengar lagi Maha Mengetahui. Ya Allah, jadikan kami berdua orang yang taat pada‐Mu, dan jadikanlah keturunan kami umat yang patuh pada‐Mu. Tunjukkan tata cara dan tempat ibadah haji kami, serta terimalah taubat kami. Sungguh Kau Maha Penerima taubat lagi Maha Penyayang.” 
+</blockquote>
+
+
+<h3>Doa Surah Al-Baqarah, Ayat 201</h3>
+
+<blockquote>
+	رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ
+</blockquote>
+
+<blockquote>
+“Ya Allah, berilah kami kebaikan di dunia dan kebaikan di akhirat, serta selamatkanlah kami dari siksa neraka.” 
+</blockquote>
+
+
+
+<h3>Doa Surah Al-Baqarah, Ayat 250</h3>
+
+<blockquote>
+	رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
+</blockquote>
+
+<blockquote>
+	“Ya Allah, limpahkanlah kesabaran pada kami, kokohkan pendirian kami, serta tolonglah kami untuk mengalahkan orang‐orang kafir.” 
+
+</blockquote>
+
+
+<h3>Doa Surah Al-Baqarah, Ayat 286</h3>
+
+
+
+<blockquote>
+رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
+</blockquote>
+
+<blockquote>
+“Ya Allah, jangan siksa kami karena lupa atau bersalah. Ya Allah, jangan bebankan pada kami beban berat seperti Kau bebankan pada orang‐orang sebelum kami. Ya Allah, jangan Kau pikulkan pada kami apa yang tidak sanggup kami pikul. Ampunilah dan maafkan kami, serta rahmatilah kami. Kaulah Penolong kami, maka tolonglah kami untuk mengalahkan orang‐orang kafir.”
+</blockquote>
+
+<h3>Doa Surah Al-Imran, Ayat 8</h3>
+
+<blockquote>
+		رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً ۚ إِنَّكَ أَنْتَ الْوَهَّابُ
+</blockquote>
+
+
+<blockquote>
+“Ya Allah, jangan Kau jadikan hati kami condong pada kesesatan sesudah Kau beri petunjuk pada kami, dan rahmatilah kami. Sungguh Kau Maha Pemberi karunia.” 
+</blockquote>
+
+
+<h3>Doa Surah Al-Imran, Ayat 9</h3>
+
+
+<blockquote>
+		رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوۡمٍ۬ لَّا رَيۡبَ فِيهِ‌ۚ إِنَّ ٱللَّهَ لَا يُخۡلِفُ ٱلۡمِيعَادَ
+</blockquote>
+
+<blockquote>
+	"Wahai Tuhan kami! Sesungguhnya Engkaulah yang akan menghimpunkan sekalian manusia, untuk (menerima balasan pada) suatu hari (hari kiamat) yang tidak ada syak padanya". Sesungguhnya Allah tidak memungkiri janjiNya."
+</blockquote>
+
+<h3>Doa Surah Al-Imran, Ayat 16</h3>
+
+
+<blockquote>
+		رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغۡفِرۡ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ
+</blockquote>
+
+<blockquote>
+	"Wahai Tuhan kami! Sesungguhnya kami telah beriman, oleh itu, ampunkanlah dosa-dosa kami dan peliharalah kami dari azab neraka"
+</blockquote>
+
+
+<h3>Doa Surah Al-Imran, Ayat 38</h3>
+
+<blockquote>
+		رَبِّ هَبْ لِي مِن لَّدُنْكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ الدُّعَاء 
+</blockquote>
+
+<blockquote>
+	“Ya Allah, berilah aku seorang anak yang baik. Sungguh Engkau Maha Mendengar semua doa"
+</blockquote>
+
+<h3>Doa Surah Al-Imran, Ayat 53</h3>
+
+<blockquote>
+		رَبَّنَآ ءَامَنَّا بِمَآ أَنزَلۡتَ وَٱتَّبَعۡنَا ٱلرَّسُولَ فَٱڪۡتُبۡنَا مَعَ ٱلشَّـٰهِدِينَ
+</blockquote>
+
+<blockquote>
+	"Wahai Tuhan kami! Kami telah beriman kepada apa yang telah Engkau turunkan, dan kami mengikut RasulMu; oleh itu suratkanlah kami beserta orang-orang yang menjadi saksi (yang mengakui keesaanMu dan kebenaran RasulMu"
+
+</blockquote>
+
+
+<h3>Doa Surah Al-Imran, Ayat 147</h3>
+
+<blockquote>
+		رَبَّنَا ٱغۡفِرۡ لَنَا ذُنُوبَنَا وَإِسۡرَافَنَا فِىٓ أَمۡرِنَا وَثَبِّتۡ أَقۡدَامَنَا وَٱنصُرۡنَا عَلَى ٱلۡقَوۡمِ ٱلۡڪَـٰفِرِينَ 
+</blockquote>
+
+<blockquote>
+"Wahai Tuhan kami! Ampunkanlah dosa-dosa kami dan perbuatan kami yang melampau dalam urusan kami, dan teguhkanlah tapak pendirian kami (dalam perjuangan); dan tolonglah kami mencapai kemenangan terhadap kaum yang kafir"
+</blockquote>
+
+<h3>Doa Surah Al-Imran, Ayat 193-194</h3>
+
+<blockquote>
+		رَبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ آمِنُوا بِرَبِّكُمْ فَآمَنَّا ۚ رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ
+
+
+رَبَّنَا وَآتِنَا مَا وَعَدْتَنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ ۗ إِنَّكَ لَا تُخْلِفُ الْمِيعَادَ
+</blockquote>
+
+<blockquote>
+“Ya Allah sungguh kami telah mendengar seruan yang menyeru pada iman: “Berimanlah kamu kepada Allah, maka kami pun beriman. Ya Allah, ampunilah dosa dan hapuskan kesalahan‐kesalahan kami, serta matikan kami beserta orang‐orang yang banyak berbuat kebajikan. Ya Allah, berilah apa yang telah Engkau janjikan kepada kami dengan perantaraan rasul‐rasul‐Mu, dan janganlah Engkau hinakan kami pada hari kiamat nanti. Sungguh Engkau sama sekali tidak akan pernah menyalahi janji.” 
+</blockquote>
+
+
+<h3>Surah An-Nisa', Ayat 75</h3>
+
+<blockquote>
+		رَبَّنَا أَخْرِجْنَا مِنْ هَـذِهِ الْقَرْيَةِ الظَّالِمِ أَهْلُهَا وَاجْعَلْ لَّنَا مِن لَّدُنكَ وَلِيا وَاجْعَلْ لَّنَا مِن لَّدُنْكَ نَصِيْرًا
+</blockquote>
+
+<blockquote>
+	
+“Ya Allah, keluarkanlah kami dari tempat ini yang zholim penduduknya ini, dan berilah kami pelindung dari sisi‐Mu serta berilah kami penolong dari Mu"
+</blockquote>
+
+
+<h3>Surah Al-Maidah, Ayat 83</h3>
+
+<blockquote>
+		رَبَّنَآ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّـٰهِدِينَ
+</blockquote>
+
+<blockquote>
+"Wahai Tuhan kami, kami beriman (kepada Nabi Muhammad dan Kitab Suci Al-Quran), oleh itu tetapkanlah kami bersama-sama orang-orang yang menjadi saksi (yang mengakui kebenaran Nabi Muhammad s.a.w)."
+</blockquote>
+
+<h3>Surah Al-Maidah, Ayat 114</h3>
+
+<blockquote>
+		رَبَّنَآ أَنزِلۡ عَلَيۡنَا مَآٮِٕدَةً۬ مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيدً۬ا لِّأَوَّلِنَا وَءَاخِرِنَا وَءَايَةً۬ مِّنكَ‌ۖ وَٱرۡزُقۡنَا وَأَنتَ خَيۡرُ ٱلرَّٲزِقِينَ
+</blockquote>
+
+<blockquote>
+	 “Ya Allah, turunkan pada kami hidangan dari langit yang hari turunnya itu akan menjadi hari raya bagi kami, bagi orang‐orang yang bersama kami dan yang datang sesudah kami, serta menjadi tanda bagi kekuasaan‐Mu. Berilah kami rezeki, dan Engkaulah Pemberi rizki yang paling utama"
+</blockquote>
+
+
+<h3>Surah Al-A'raaf, Ayat 23</h3>
+
+<blockquote>
+		رَبَّنَا ظَلَمْنَا أَنْفُسَنَا وَإِنْ لَمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ
+</blockquote>
+
+<blockquote>
+“Ya Allah, kami telah menganiaya diri kami sendiri, dan jika Kau tidak mengampuni kami serta memberi rahmat pada kami, niscaya kami termasuk orang‐orang yang rugi.” 
+</blockquote>
+
+
+<h3>Surah Al-A'raaf, Ayat 47</h3>
+
+<blockquote>
+		رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِينَ
+</blockquote>
+
+
+<blockquote>
+	“Ya Allah, jangan Kau tempatkan kami bersama‐sama dengan orang‐orang zhalim.” 
+</blockquote>
+
+
+<h3>Surah Al-A'raaf, Ayat 89</h3>
+
+<blockquote>
+		رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَأَنْتَ خَيْرُ الْفَاتِحِينَ
+</blockquote>
+
+<blockquote>
+	“Ya Allah, berilah putusan antara kami dan kaum kami dengan adil. Kaulah Pemberi keputusan yang sebaik‐baiknya.” 
+</blockquote>
+
+<h3>Surah Al-A'raaf, Ayat 126</h3>
+
+<blockquote>
+		رَبَّنَآ أَفۡرِغۡ عَلَيۡنَا صَبۡرً۬ا وَتَوَفَّنَا مُسۡلِمِينَ
+</blockquote>
+
+<blockquote>
+	"Wahai Tuhan kami, limpahkanlah kesabaran kepada kami, dan matikanlah kami dalam keadaan Islam (berserah bulat-bulat kepadaMu"
+</blockquote>
+
+<h3>Surah Al-A'raaf, Ayat 151</h3>
+
+<blockquote>
+		رَبِّ ٱغۡفِرۡ لِى وَلِأَخِى وَأَدۡخِلۡنَا فِى رَحۡمَتِكَ‌ۖ وَأَنتَ أَرۡحَمُ ٱلرَّٲحِمِينَ
+</blockquote>
+
+
+<blockquote>
+	"Wahai Tuhanku, ampunkanlah bagiku dan bagi saudaraku, dan masukkanlah kami ke dalam rahmatMu, kerana Engkaulah sahaja Yang Maha Mengasihani dari segala yang lain mengasihani"
+</blockquote>
+
+<h3>Surah Al-A'raaf, Ayat 155-156</h3>
+
+
+<blockquote>
+		أَنتَ وَلِيُّنَا فَٱغۡفِرۡ لَنَا وَٱرۡحَمۡنَا‌ۖ وَأَنتَ خَيۡرُ ٱلۡغَـٰفِرِينَ وَٱڪۡتُبۡ لَنَا فِى هَـٰذِهِ ٱلدُّنۡيَا حَسَنَةً۬ وَفِى ٱلۡأَخِرَةِ إِنَّا هُدۡنَآ إِلَيۡكَ‌ۚ
+</blockquote>
+
+<blockquote>
+"Engkau jualah Pelindung kami; oleh itu ampunkanlah kami dan berilah rahmat kepada kami, kerana Engkau jualah sebaik-baik Pemberi ampun. "Dan tetapkanlah untuk Kami kebaikan dalam dunia ini dan juga di akhirat, sesungguhnya kami kembali (bertaubat) kepadaMu"
+</blockquote>
+
+<h3>Surah Yunus, Ayat 85-86</h3>
+
+<blockquote>
+		رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلْقَوْمِ الظَّالِمِينَ وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِينَ
+</blockquote>
+
+<blockquote>
+	
+“Ya Allah, janganlah Engkau jadikan kami sasaran fitnah bagi kaum yang zholim, dan selamatkanlah kami dengan curahan rahmat‐Mu dari tipu daya orang‐ orang yang kafir.” 
+</blockquote>
+
+<h3>Surah Hud, Ayat 47</h3>
+
+<blockquote>
+		رَبِّ إِنِّي أَعُوذُ بِكَ أَنْ أَسْأَلَكَ مَا لَيْسَ لِي بِهِ عِلْمٌ ۖ وَإِلَّا تَغْفِرْ لِي وَتَرْحَمْنِي أَكُنْ مِنَ الْخَاسِرِينَ
+</blockquote>
+
+<blockquote>
+	“Ya Allah, sungguh aku berlindung pada‐Mu dari sesuatu yang aku tidak tahu hakikatnya. Dan sekiranya Engkau tidak memberi ampun serta tidak menaruh belas kasihan padaku, niscaya aku termasuk orang‐orang yang merugi.” 
+</blockquote>
+
+<h3>Surah Ibrahim, Ayat 35</h3>
+
+<blockquote>
+		رَبِّ ٱجۡعَلۡ هَـٰذَا ٱلۡبَلَدَ ءَامِنً۬ا وَٱجۡنُبۡنِى وَبَنِىَّ أَن نَّعۡبُدَ ٱلۡأَصۡنَامَ
+</blockquote>
+
+<blockquote>
+	"Wahai Tuhanku! jadikanlah negeri Makkah ini negeri yang aman, dan jauhkanlah daku dan anak-anakku dari perbuatan menyembah berhala."
+</blockquote>
+
+<h3>Surah Ibrahim, Ayat 40-41</h3>
+
+<blockquote>
+		رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِي ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ
+</blockquote>
+
+<blockquote>
+“Ya Allah, jadikanlah aku dan anak cucuku orang‐orang yang teguh mendirikan shalat, ya Allah kabulkan doaku. Ya Allah ampunanilah diriku dan kepada kedua orang tuaku serta orang‐orang mukmin pada hari kiamat.” 
+</blockquote>
+
+<h3>Surah Al-Israa, Ayat 24</h3>
+
+<blockquote>
+		رَّبِّ ٱرۡحَمۡهُمَا كَمَا رَبَّيَانِى صَغِيرً۬ا
+</blockquote>
+
+<blockquote>
+	"Wahai Tuhanku! Cucurilah rahmat kepada mereka berdua sebagaimana mereka telah mencurahkan kasih sayangnya memelihara dan mendidikku semasa kecil."
+</blockquote>
+
+
+<h3>Surah Al-Israa, Ayat 80</h3>
+
+<blockquote>
+		رَبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ وَاجْعَلْ لِي مِنْ لَدُنْكَ سُلْطَانًا نَصِيرًا
+</blockquote>	
+
+<blockquote>
+	
+“Ya Allah, masukkanlah aku dengan cara masuk yang benar, dan keluarkanlah aku dengan cara yang benar. Dan berikan padaku kekuasaan (pemimpin) sebagai penolong.” 
+
+</blockquote>
+
+
+<h3>Surah Al-Kahfi, Ayat 10</h3>
+
+<blockquote>
+		رَبَّنَا آتِنَا مِنْ لَدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا
+</blockquote>
+
+<blockquote>
+	“…Ya Allah, berikanlah kepada kami rahmat dari sisiMu, dan sempurnakanlah bagi kami petunjuk yang lurus dalam urusan kami ini.”
+</blockquote>
+
+<h3>Surah Thoha, Ayat 25-28</h3>
+
+<blockquote>
+		رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي يَفْقَهُوا قَوْلِي 
+</blockquote>
+
+<blockquote>
+	 “Ya Allah, lapangkan dadaku, mudahkan urusanku, dan lepaskan kekakuan lidahku, agar mereka mengerti perkataanku.” 
+</blockquote>
+
+<h3>Surah Thoha, Ayat 114</h3>
+
+<blockquote>
+		رَّبِّ زِدۡنِى عِلۡمً۬ا
+</blockquote>
+
+<blockquote>
+	 "Wahai Tuhanku, tambahilah ilmuku".
+</blockquote>
+
+
+<h3>Surah Al-Anbiya, Ayat 79</h3>
+
+<blockquote>
+		 فَفَهَّمۡنَـٰهَا سُلَيۡمَـٰنَ‌ۚ وَڪُلاًّ ءَاتَيۡنَا حُكۡمً۬ا وَعِلۡمً۬ا‌ۚ وَسَخَّرۡنَا مَعَ دَاوُ ۥدَ ٱلۡجِبَالَ يُسَبِّحۡنَ وَٱلطَّيۡرَ‌ۚ وَڪُنَّا فَـٰعِلِينَ
+</blockquote>
+
+<blockquote>
+
+Maka Kami beri Nabi Sulaiman memahami hukum yang lebih tepat bagi masalah itu; dan masing-masing (dari mereka berdua) Kami berikan hikmat kebijaksanaan dan ilmu (yang banyak); dan Kami mudahkan gunung-ganang dan unggas memuji Kami bersama-sama dengan Nabi Daud; dan adalah Kami berkuasa melakukan semuanya itu.
+</blockquote>
+
+<h3>Surah Al-Anbiya, Ayat 87</h3>
+
+<blockquote>
+		لَا إِلَٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ
+</blockquote>
+
+<blockquote>
+	 “…Tidak ada Tuhan selain Engkau. Maha Suci Engkau, sesungguhnya aku adalah termasuk orang-orang yang zalim.”
+</blockquote>
+
+<h3>Surah Al-Anbiya, Ayat 89</h3>
+
+<blockquote>
+		رَبِّ لَا تَذَرۡنِى فَرۡدً۬ا وَأَنتَ خَيۡرُ ٱلۡوَٲرِثِينَ
+</blockquote>
+
+<blockquote>
+	 Ya Allah, janganlah Engkau biarkan aku hidup seorang diri, dan Engkaulah pewaris yang paling baik.  
+</blockquote>
+
+<h3>Surah Al-Anbiya, Ayat 112</h3>
+
+<blockquote>
+		رَبِّ ٱحۡكُم بِٱلۡحَقِّ‌ۗ وَرَبُّنَا ٱلرَّحۡمَـٰنُ ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ
+</blockquote>
+
+<blockquote>
+"Wahai Tuhanku, hukumkanlah (di antara kami dengan mereka) dengan yang benar; dan Tuhan kami ialah Yang Melimpah-limpah rahmatNya yang dipohonkan pertolonganNya terhadap apa yang kamu sifatkan itu".
+</blockquote>
+
+<h3>Surah Al-Mu'minuun, Ayat 29</h3>
+
+<blockquote>
+		رَّبِّ أَنزِلۡنِى مُنزَلاً۬ مُّبَارَكً۬ا وَأَنتَ خَيۡرُ ٱلۡمُنزِلِينَ
+</blockquote>
+
+<blockquote>
+	Wahai Tuhanku, turunkanlah daku di tempat turun yang berkat, dan Engkau adalah sebaik-baik Pemberi tempat
+</blockquote>
+
+
+<h3>Surah Al-Mu'minuun, Ayat 94</h3>
+
+<blockquote>
+		رَبِّ فَلَا تَجۡعَلۡنِى فِى ٱلۡقَوۡمِ ٱلظَّـٰلِمِينَ
+</blockquote>
+
+<blockquote>
+	"Maka wahai Tuhanku, janganlah Engkau biarkan daku tinggal dalam kalangan kaum yang zalim itu".
+</blockquote>
+
+<h3>Surah Al-Mu'minuun, Ayat 97-98</h3>
+
+<blockquote>
+		رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِين وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ
+</blockquote>
+
+<blockquote>
+	“Ya Allah, aku berlindung pada‐Mu dari bisikan‐bisikan setan. Dan aku berlindung pada‐ Mu, dari kedatangan mereka padaku.”  
+</blockquote>
+
+
+<blockquote>
+		رَبَّنَآ ءَامَنَّا فَٱغۡفِرۡ لَنَا وَٱرۡحَمۡنَا وَأَنتَ خَيۡرُ ٱلرَّٲحِمِينَ 
+</blockquote>
+
+<blockquote>
+	Wahai Tuhan kami, kami telah beriman; oleh itu ampunkanlah dosa kami serta berilah rahmat kepada kami, dan sememangnya Engkaulah jua sebaik-baik Pemberi rahmat
+</blockquote>
+
+<h3>Surah Al-Mu'minuun, Ayat 118</h3>
+
+<blockquote>
+		رَّبِّ ٱغۡفِرۡ وَٱرۡحَمۡ وَأَنتَ خَيۡرُ ٱلرَّٲحِمِينَ
+</blockquote>
+
+<blockquote>
+	"Wahai Tuhanku, berikanlah ampun dan kurniakan rahmat, dan sememangnya Engkaulah sahaja sebaik-baik Pemberi rahmat!"
+</blockquote>
+
+<h3>Surah Al-Furqaan, Ayat 66</h3>
+
+<blockquote>
+		رَبَّنَا ٱصۡرِفۡ عَنَّا عَذَابَ جَهَنَّمَ‌ۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا إِنَّهَا سَآءَتۡ مُسۡتَقَرًّ۬ا وَمُقَامً۬ا
+</blockquote>
+
+<blockquote>
+	
+Wahai Tuhan kami, sisihkanlah azab neraka Jahannam dari kami, sesungguhnya azab seksanya itu adalah mengerikan.Sesungguhnya neraka Jahannam itu tempat penetapan dan tempat tinggal yang amat buruk
+</blockquote>
+
+<h3>Surah Al-Furqaan, Ayat 74</h3>
+
+<blockquote>
+		رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا 
+</blockquote>
+
+<blockquote>
+	 Ya Allah, anugerahkanlah kepada istri dan keturunan kami sebagai penyejuk hati, dan jadikanlah kami imam (pemimpin) bagi orang‐orang yang bertakwa  
+</blockquote>
+
+
+<h3>Surah Asy-Syu'araa, Ayat 83-85</h3>
+
+<blockquote>
+		رَبِّ هَبۡ لِى حُڪۡمً۬ا وَأَلۡحِقۡنِى بِٱلصَّـٰلِحِينَ وَٱجۡعَل لِّى لِسَانَ صِدۡقٍ۬ فِى ٱلۡأَخِرِينَ 
+وَٱجۡعَلۡنِى مِن وَرَثَةِ جَنَّةِ ٱلنَّعِيمِ
+</blockquote>
+
+
+<blockquote>
+	
+"Wahai Tuhanku, berikanlah daku ilmu pengetahuan agama, dan hubungkanlah daku dengan orang-orang yang soleh; Dan jadikanlah bagiku sebutan yang baik (nama yang harum) dalam kalangan orang-orang yang datang kemudian; Dan jadikanlah daku dari orang-orang yang mewarisi Syurga Jannatun-Naiim; 
+</blockquote>
+
+<h3>Surah Al-Naml, Ayat 19</h3>
+
+<blockquote>
+	رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ 
+	
+</blockquote>
+
+<blockquote>
+	“Ya Allah, berilah aku ilham untuk tetap mensyukuri nikmat‐Mu yang telah Engkau anugerahkan kepadaku dan kepada kedua orangtuaku dan untuk (selalu) mengerjakan amal soleh yang Engkau ridhai, serta masukkan aku dengan rahmat‐Mu ke dalam golongan hamba‐hamba‐Mu yang soleh"
+</blockquote>
+
+<h3>Surah Al-Qasas, Ayat 16</h3>
+
+<blockquote>
+		رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي فَغَفَرَ لَهُ ۚ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ 
+</blockquote>
+
+<blockquote>
+"Wahai Tuhanku, sesungguhnya aku telah menganiaya diri sendiri; oleh itu ampunkanlah - apalah jua kiranya - akan dosaku". (Maka Allah Taala menerima taubatnya) lalu mengampunkan dosanya; sesungguhnya Allah jualah Yang Maha Pengampun, lagi Maha Mengasihani.
+</blockquote>
+
+<h3>Surah Al-Qasas, Ayat 21</h3>
+
+<blockquote>
+		رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ
+</blockquote>
+
+<blockquote>
+	"Wahai Tuhanku, selamatkanlah daku dari kaum yang zalim ".
+</blockquote>
+
+<h3>Surah Al-Qasas, Ayat 24</h3>
+
+<blockquote>
+		فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰ إِلَى الظِّلِّ فَقَالَ رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِير
+</blockquote>
+
+<blockquote>
+	"Wahai Tuhanku, sesungguhnya aku sangat berhajat kepada sebarang rezeki pemberian yang Engkau berikan".
+</blockquote>
+
+<h3>Surah Al-'Ankabuut, Ayat 30</h3>
+
+<blockquote>
+		قَالَ رَبِّ انصُرْنِي عَلَى الْقَوْمِ الْمُفْسِدِينَ 
+</blockquote>
+
+<blockquote>
+	"Wahai Tuhanku, tolonglah daku terhadap kaum yang melakukan kerosakan (menderhaka)".
+</blockquote>
+
+<h3>Surah Al-Faatir, Ayat 2</h3>
+
+<blockquote>
+		مَّا يَفْتَحِ اللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا ۖ وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُ مِن بَعْدِهِ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ 
+</blockquote>
+
+<blockquote>
+	Apa jua jenis rahmat yang dibukakan oleh Allah kepada manusia, maka tidak ada sesuatupun yang dapat menahannya; dan apa jua yang ditahan oleh Allah maka tidak ada sesuatupun yang dapat melepaskannya sesudah itu. Dan (ingatlah) Dia lah sahaja yang Maha Kuasa, lagi Maha Bijaksana.
+</blockquote>
+
+	
+<h3>Surah Al-Faatir, Ayat 34</h3>	
+
+<blockquote>
+		وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنَّا الْحَزَنَ ۖ إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ
+</blockquote>
+
+<blockquote>
+	
+Dan (sebagai bersyukur) berkatalah mereka: "Segala puji tertentu bagi Allah, yang telah menghapuskan perasaan dukacita dari kami; Sesungguhnya Tuhan kami Maha Pengampun, lagi sentiasa memberi balasan yang sebaik-baiknya (kepada orang-orang yang taat);
+</blockquote>
+
+
+<h3>Surah As-Saaffaat, Ayat 100</h3>
+
+<blockquote>
+		رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ 
+</blockquote>
+
+<blockquote>
+	Wahai Tuhanku! Kurniakanlah kepadaku anak yang terhitung dari orang-orang yang soleh"
+</blockquote>
+	
+
+<h3>Surah Az-Zumar, Ayat 46</h3>
+
+<blockquote>
+		قُلِ اللَّهُمَّ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ أَنتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِي مَا كَانُوا فِيهِ يَخْتَلِفُونَ 
+</blockquote>
+
+<blockquote>
+"Wahai Tuhan yang menciptakan langit dan bumi, yang mengetahui perkara-perkara yang ghaib dan yang nyata, Engkaulah jua yang mengadili di antara hamba-hambaMu, mengenai apa yang mereka sentiasa berselisihan padanya".
+</blockquote>
+
+<h3>Surah Ghaafir, Ayat 3</h3>
+
+<blockquote>
+		غَافِرِ الذَّنبِ وَقَابِلِ التَّوْبِ شَدِيدِ الْعِقَابِ ذِي الطَّوْلِ ۖ لَا إِلَٰهَ إِلَّا هُوَ ۖ إِلَيْهِ الْمَصِيرُ 
+</blockquote>
+
+<blockquote>
+	
+Yang Mengampunkan dosa, dan Yang Menerima taubat; Yang Berat azabNya; Yang Melimpah-limpah kurniaNya; tiada Tuhan melainkan Dia; kepadaNyalah tempat kembali.
+
+</blockquote>
+
+<h3>Surah Ghaafir, Ayat 7-9</h3>
+
+<blockquote>
+	
+	رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ . رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ ۚ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ. وَقِهِمُ السَّيِّئَاتِ ۚ وَمَن تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ رَحِمْتَهُ ۚ وَذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ 
+</blockquote>
+
+<blockquote>
+	"Wahai Tuhan kami! RahmatMu dan IlmuMu meliputi segala-galanya; maka berilah ampun kepada orang-orang yang bertaubat serta menurut jalanMu, dan peliharalah mereka dari azab neraka. Wahai Tuhan kami! Dan masukkanlah mereka ke dalam Syurga "Adn" yang Engkau telah janjikan kepada mereka; dan (masukkanlah bersama-sama mereka): orang-orang yang layak di antara ibu bapa mereka, dan isteri-isteri mereka, serta keturunan mereka. Sesungguhnya Engkaulah jua Yang Maha Kuasa, lagi Maha Bijaksana. Dan peliharalah mereka dari (balasan) kejahatan-kejahatan (yang dilakukannya); dan (sebenarnya) sesiapa yang Engkau pelihara pada hari itu dari terkena (balasan) kejahatan-kejahatan (yang dilakukannya) maka sesungguhnya Engkau telah mengurniakan rahmat kepadanya; dan yang demikian itulah kemenangan yang besar (nilainya)".
+</blockquote>
+
+
+	
+<h3>Surah Al-Ahqaaf, Ayat 15</h3>
+
+<blockquote>
+		قَالَ رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي فِي ذُرِّيَّتِي ۖ إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ 
+</blockquote>
+
+<blockquote>
+	
+"Wahai Tuhanku, ilhamkanlah daku supaya tetap bersyukur akan nikmatmu yang engkau kurniakan kepadaku dan kepada ibu bapaku, dan supaya aku tetap mengerjakan amal soleh yang Engkau redai; dan jadikanlah sifat-sifat kebaikan meresap masuk ke dalam jiwa zuriat keturunanku. Sesungguhnya aku bertaubat kepadamu, dan sesungguhnya aku dari orang-orang Islam (yang tunduk patuh kepadamu)".
+</blockquote>
+
+
+<h3>Surah Al-Hadiid, Ayat 6</h3>
+
+<blockquote>
+		سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ . لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۖ يُحْيِي وَيُمِيتُ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ . هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ. هُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۚ يَعْلَمُ مَا يَلِجُ فِي الْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ السَّمَاءِ وَمَا يَعْرُجُ فِيهَا ۖ وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ. لَّهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ. يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ ۚ وَهُوَ عَلِيمٌ بِذَاتِ الصُّدُورِ 
+</blockquote>
+
+<blockquote>
+Segala yang ada di langit dan di bumi tetap mengucap tasbih kepada Allah; dan Dia lah Yang Maha Kuasa, lagi Maha Bijaksana. Dia lah sahaja yang menguasai dan memiliki langit dan bumi; Ia menghidupkan dan mematikan; dan Ia Maha Kuasa atas tiap-tiap sesuatu. Dia lah Yang Awal dan Yang Akhir; dan Yang Zahir serta Yang Batin; dan Dia lah Yang Maha Mengetahui akan tiap-tiap sesuatu. Dia lah yang telah menciptakan langit dan bumi dalam enam masa, kemudian Ia bersemayam di atas Arasy; Ia mengetahui apa yang masuk ke bumi serta apa yang keluar daripadanya; dan apa yang diturunkan dari langit serta apa yang naik padanya. Dan Ia tetap bersama-sama kamu di mana sahaja kamu berada, dan Allah Maha Melihat akan apa yang kamu kerjakan. Dia lah sahaja yang menguasai dan memiliki langit dan bumi; dan kepada Allah jualah dikembalikan segala urusan. Dia lah yang memasukkan waktu malam ke dalam waktu siang, dan memasukkan waktu siang ke dalam waktu malam (silih berganti); dan Dia lah yang Maha Mengetahui akan segala (isi hati) yang terkandung di dalam dada.
+</blockquote>
+
+	
+<h3>Surah Al-Hasyr, Ayat 10</h3>
+
+<blockquote>
+		رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَءُوفٌ رَّحِيمٌ 
+
+</blockquote>
+
+<blockquote>
+	
+“Ya Allah, ampunilah dosa‐dosa kami dan dosa‐dosa saudara kami yang telah mendahului kami dengan membawa iman, dan janganlah Engkau membiarkan kedengkian dalam hati kami terhadap orang‐orang yang beriman. Ya Allah, sungguh Engkau Maha Penyantun lagi Maha Penyayang 
+</blockquote>
+
+<h3>Surah Al-Hasyr, Ayat 24</h3>
+
+<blockquote>
+	
+	لَوْ أَنزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُ خَاشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللَّهِ ۚ وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ . هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَٰنُ الرَّحِيمُ . هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ ۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ . هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+</blockquote>
+
+<blockquote>
+	Sekiranya Kami turunkan Al-Quran ini ke atas sebuah gunung, nescaya engkau melihat gunung itu khusyuk serta pecah belah kerana takut kepada Allah. Dan (ingatlah), misal-misal perbandingan ini Kami kemukakan kepada umat manusia, supaya mereka memikirkannya. Dia lah Allah, yang tidak ada Tuhan melainkan Dia; Yang Mengetahui perkara yang ghaib dan yang nyata; Dia lah Yang Maha Pemurah, lagi Maha Mengasihani. Dia lah Allah, yang tidak ada Tuhan melainkan Dia; Yang Menguasai (sekalian alam); Yang Maha Suci; Yang Maha Selamat Sejahtera (dari segala kekurangan); Yang Maha Melimpahkan Keamanan; Yang Maha Pengawal serta Pengawas; Yang Maha Kuasa; Yang Maha Kuat (menundukkan segala-galanya); Yang Melengkapi segala KebesaranNya. Maha Suci Allah dari segala yang mereka sekutukan denganNya. Dia lah Allah, Yang Menciptakan sekalian makhluk; Yang Mengadakan (dari tiada kepada ada); Yang Membentuk rupa (makhluk-makhlukNya menurut yang dikehendakiNya); bagiNyalah nama-nama yang sebaik-baiknya dan semulia-mulianya; bertasbih kepadaNya segala yang ada di langit dan di bumi; dan Dia lah Yang tiada bandingNya, lagi Maha Bijaksana.
+</blockquote>
+	
+	
+<h3>Surah Al-Mumtahanah, Ayat 5</h3>
+
+<blockquote>
+		رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ. رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا ۖ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ 
+
+</blockquote>
+
+
+<blockquote>
+	Wahai Tuhan kami! Kepada Engkaulah sahaja kami berserah diri, dan kepada Engkaulah kami rujuk bertaubat, serta kepada Engkaulah jua tempat kembali! Wahai Tuhan kami! Janganlah Engkau jadikan pendirian dan keyakinan kami terpesong kerana penindasan orang-orang kafir, dan ampunkanlah dosa kami wahai Tuhan kami; sesungguhnya Engkaulah sahaja Yang Maha Kuasa, lagi Maha Bijaksana".
+</blockquote>
+ 
+	
+
+
