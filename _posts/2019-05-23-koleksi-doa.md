@@ -4,12 +4,24 @@ title:  "Koleksi Doa daripada Quran"
 date:   2019-05-23 22:49:08
 ---
 
+<link href="https://fonts.googleapis.com/css?family=Amiri&display=swap" rel="stylesheet">
+
 
 
 <br/>
 
 
 <style type="text/css">
+
+* {
+	font-family: 'Amiri', serif;
+}
+
+blockquote.arabic {
+		line-height: 3.6;
+		letter-spacing: 1px;
+}
+
 	
 blockquote {
 	font-size: 25px;
@@ -25,7 +37,7 @@ h3	{
 
 
 <h3>Doa Surah Al-Baqarah, Ayat 127-128</h3>
-<blockquote>
+<blockquote class="arabic">
 	رَبَّنَا تَقَبَّلْ مِنَّا ۖ إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُرَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِنْ ذُرِّيَّتِنَا أُمَّةً مُسْلِمَةً لَكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا ۖ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ
 
 </blockquote>
@@ -37,7 +49,7 @@ h3	{
 
 <h3>Doa Surah Al-Baqarah, Ayat 201</h3>
 
-<blockquote>
+<blockquote class="arabic">
 	رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ
 </blockquote>
 
@@ -49,7 +61,7 @@ h3	{
 
 <h3>Doa Surah Al-Baqarah, Ayat 250</h3>
 
-<blockquote>
+<blockquote class="arabic">
 	رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
 </blockquote>
 
@@ -63,7 +75,7 @@ h3	{
 
 
 
-<blockquote>
+<blockquote class="arabic">
 رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
 </blockquote>
 
@@ -73,7 +85,7 @@ h3	{
 
 <h3>Doa Surah Al-Imran, Ayat 8</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً ۚ إِنَّكَ أَنْتَ الْوَهَّابُ
 </blockquote>
 
@@ -86,7 +98,7 @@ h3	{
 <h3>Doa Surah Al-Imran, Ayat 9</h3>
 
 
-<blockquote>
+<blockquote class="arabic">
 		رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوۡمٍ۬ لَّا رَيۡبَ فِيهِ‌ۚ إِنَّ ٱللَّهَ لَا يُخۡلِفُ ٱلۡمِيعَادَ
 </blockquote>
 
@@ -97,7 +109,7 @@ h3	{
 <h3>Doa Surah Al-Imran, Ayat 16</h3>
 
 
-<blockquote>
+<blockquote class="arabic">
 		رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغۡفِرۡ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ
 </blockquote>
 
@@ -108,7 +120,7 @@ h3	{
 
 <h3>Doa Surah Al-Imran, Ayat 38</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبِّ هَبْ لِي مِن لَّدُنْكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ الدُّعَاء 
 </blockquote>
 
@@ -118,7 +130,7 @@ h3	{
 
 <h3>Doa Surah Al-Imran, Ayat 53</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبَّنَآ ءَامَنَّا بِمَآ أَنزَلۡتَ وَٱتَّبَعۡنَا ٱلرَّسُولَ فَٱڪۡتُبۡنَا مَعَ ٱلشَّـٰهِدِينَ
 </blockquote>
 
@@ -130,7 +142,8 @@ h3	{
 
 <h3>Doa Surah Al-Imran, Ayat 147</h3>
 
-<blockquote>
+<blockquote class="arabic">
+
 		رَبَّنَا ٱغۡفِرۡ لَنَا ذُنُوبَنَا وَإِسۡرَافَنَا فِىٓ أَمۡرِنَا وَثَبِّتۡ أَقۡدَامَنَا وَٱنصُرۡنَا عَلَى ٱلۡقَوۡمِ ٱلۡڪَـٰفِرِينَ 
 </blockquote>
 
@@ -140,7 +153,8 @@ h3	{
 
 <h3>Doa Surah Al-Imran, Ayat 193-194</h3>
 
-<blockquote>
+<blockquote class="arabic">
+
 		رَبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ آمِنُوا بِرَبِّكُمْ فَآمَنَّا ۚ رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ
 
 
@@ -154,7 +168,8 @@ h3	{
 
 <h3>Surah An-Nisa', Ayat 75</h3>
 
-<blockquote>
+<blockquote class="arabic">
+
 		رَبَّنَا أَخْرِجْنَا مِنْ هَـذِهِ الْقَرْيَةِ الظَّالِمِ أَهْلُهَا وَاجْعَلْ لَّنَا مِن لَّدُنكَ وَلِيا وَاجْعَلْ لَّنَا مِن لَّدُنْكَ نَصِيْرًا
 </blockquote>
 
@@ -166,7 +181,8 @@ h3	{
 
 <h3>Surah Al-Maidah, Ayat 83</h3>
 
-<blockquote>
+<blockquote class="arabic">
+
 		رَبَّنَآ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّـٰهِدِينَ
 </blockquote>
 
@@ -176,7 +192,8 @@ h3	{
 
 <h3>Surah Al-Maidah, Ayat 114</h3>
 
-<blockquote>
+<blockquote class="arabic">
+
 		رَبَّنَآ أَنزِلۡ عَلَيۡنَا مَآٮِٕدَةً۬ مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيدً۬ا لِّأَوَّلِنَا وَءَاخِرِنَا وَءَايَةً۬ مِّنكَ‌ۖ وَٱرۡزُقۡنَا وَأَنتَ خَيۡرُ ٱلرَّٲزِقِينَ
 </blockquote>
 
@@ -187,7 +204,8 @@ h3	{
 
 <h3>Surah Al-A'raaf, Ayat 23</h3>
 
-<blockquote>
+<blockquote class="arabic">
+
 		رَبَّنَا ظَلَمْنَا أَنْفُسَنَا وَإِنْ لَمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ
 </blockquote>
 
@@ -198,7 +216,7 @@ h3	{
 
 <h3>Surah Al-A'raaf, Ayat 47</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِينَ
 </blockquote>
 
@@ -210,7 +228,7 @@ h3	{
 
 <h3>Surah Al-A'raaf, Ayat 89</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَأَنْتَ خَيْرُ الْفَاتِحِينَ
 </blockquote>
 
@@ -220,7 +238,7 @@ h3	{
 
 <h3>Surah Al-A'raaf, Ayat 126</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبَّنَآ أَفۡرِغۡ عَلَيۡنَا صَبۡرً۬ا وَتَوَفَّنَا مُسۡلِمِينَ
 </blockquote>
 
@@ -230,7 +248,7 @@ h3	{
 
 <h3>Surah Al-A'raaf, Ayat 151</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبِّ ٱغۡفِرۡ لِى وَلِأَخِى وَأَدۡخِلۡنَا فِى رَحۡمَتِكَ‌ۖ وَأَنتَ أَرۡحَمُ ٱلرَّٲحِمِينَ
 </blockquote>
 
@@ -242,7 +260,7 @@ h3	{
 <h3>Surah Al-A'raaf, Ayat 155-156</h3>
 
 
-<blockquote>
+<blockquote class="arabic">
 		أَنتَ وَلِيُّنَا فَٱغۡفِرۡ لَنَا وَٱرۡحَمۡنَا‌ۖ وَأَنتَ خَيۡرُ ٱلۡغَـٰفِرِينَ وَٱڪۡتُبۡ لَنَا فِى هَـٰذِهِ ٱلدُّنۡيَا حَسَنَةً۬ وَفِى ٱلۡأَخِرَةِ إِنَّا هُدۡنَآ إِلَيۡكَ‌ۚ
 </blockquote>
 
@@ -252,7 +270,7 @@ h3	{
 
 <h3>Surah Yunus, Ayat 85-86</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلْقَوْمِ الظَّالِمِينَ وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِينَ
 </blockquote>
 
@@ -263,7 +281,7 @@ h3	{
 
 <h3>Surah Hud, Ayat 47</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبِّ إِنِّي أَعُوذُ بِكَ أَنْ أَسْأَلَكَ مَا لَيْسَ لِي بِهِ عِلْمٌ ۖ وَإِلَّا تَغْفِرْ لِي وَتَرْحَمْنِي أَكُنْ مِنَ الْخَاسِرِينَ
 </blockquote>
 
@@ -273,7 +291,7 @@ h3	{
 
 <h3>Surah Ibrahim, Ayat 35</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبِّ ٱجۡعَلۡ هَـٰذَا ٱلۡبَلَدَ ءَامِنً۬ا وَٱجۡنُبۡنِى وَبَنِىَّ أَن نَّعۡبُدَ ٱلۡأَصۡنَامَ
 </blockquote>
 
@@ -283,7 +301,7 @@ h3	{
 
 <h3>Surah Ibrahim, Ayat 40-41</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِي ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ
 </blockquote>
 
@@ -293,7 +311,7 @@ h3	{
 
 <h3>Surah Al-Israa, Ayat 24</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَّبِّ ٱرۡحَمۡهُمَا كَمَا رَبَّيَانِى صَغِيرً۬ا
 </blockquote>
 
@@ -304,7 +322,7 @@ h3	{
 
 <h3>Surah Al-Israa, Ayat 80</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ وَاجْعَلْ لِي مِنْ لَدُنْكَ سُلْطَانًا نَصِيرًا
 </blockquote>	
 
@@ -317,7 +335,7 @@ h3	{
 
 <h3>Surah Al-Kahfi, Ayat 10</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبَّنَا آتِنَا مِنْ لَدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا
 </blockquote>
 
@@ -327,7 +345,7 @@ h3	{
 
 <h3>Surah Thoha, Ayat 25-28</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي يَفْقَهُوا قَوْلِي 
 </blockquote>
 
@@ -337,7 +355,7 @@ h3	{
 
 <h3>Surah Thoha, Ayat 114</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَّبِّ زِدۡنِى عِلۡمً۬ا
 </blockquote>
 
@@ -348,7 +366,7 @@ h3	{
 
 <h3>Surah Al-Anbiya, Ayat 79</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		 فَفَهَّمۡنَـٰهَا سُلَيۡمَـٰنَ‌ۚ وَڪُلاًّ ءَاتَيۡنَا حُكۡمً۬ا وَعِلۡمً۬ا‌ۚ وَسَخَّرۡنَا مَعَ دَاوُ ۥدَ ٱلۡجِبَالَ يُسَبِّحۡنَ وَٱلطَّيۡرَ‌ۚ وَڪُنَّا فَـٰعِلِينَ
 </blockquote>
 
@@ -359,7 +377,7 @@ Maka Kami beri Nabi Sulaiman memahami hukum yang lebih tepat bagi masalah itu; d
 
 <h3>Surah Al-Anbiya, Ayat 87</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		لَا إِلَٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ
 </blockquote>
 
@@ -369,7 +387,7 @@ Maka Kami beri Nabi Sulaiman memahami hukum yang lebih tepat bagi masalah itu; d
 
 <h3>Surah Al-Anbiya, Ayat 89</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبِّ لَا تَذَرۡنِى فَرۡدً۬ا وَأَنتَ خَيۡرُ ٱلۡوَٲرِثِينَ
 </blockquote>
 
@@ -379,7 +397,7 @@ Maka Kami beri Nabi Sulaiman memahami hukum yang lebih tepat bagi masalah itu; d
 
 <h3>Surah Al-Anbiya, Ayat 112</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبِّ ٱحۡكُم بِٱلۡحَقِّ‌ۗ وَرَبُّنَا ٱلرَّحۡمَـٰنُ ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ
 </blockquote>
 
@@ -389,7 +407,7 @@ Maka Kami beri Nabi Sulaiman memahami hukum yang lebih tepat bagi masalah itu; d
 
 <h3>Surah Al-Mu'minuun, Ayat 29</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَّبِّ أَنزِلۡنِى مُنزَلاً۬ مُّبَارَكً۬ا وَأَنتَ خَيۡرُ ٱلۡمُنزِلِينَ
 </blockquote>
 
@@ -400,7 +418,7 @@ Maka Kami beri Nabi Sulaiman memahami hukum yang lebih tepat bagi masalah itu; d
 
 <h3>Surah Al-Mu'minuun, Ayat 94</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبِّ فَلَا تَجۡعَلۡنِى فِى ٱلۡقَوۡمِ ٱلظَّـٰلِمِينَ
 </blockquote>
 
@@ -410,7 +428,7 @@ Maka Kami beri Nabi Sulaiman memahami hukum yang lebih tepat bagi masalah itu; d
 
 <h3>Surah Al-Mu'minuun, Ayat 97-98</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِين وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ
 </blockquote>
 
@@ -419,7 +437,7 @@ Maka Kami beri Nabi Sulaiman memahami hukum yang lebih tepat bagi masalah itu; d
 </blockquote>
 
 
-<blockquote>
+<blockquote class="arabic">
 		رَبَّنَآ ءَامَنَّا فَٱغۡفِرۡ لَنَا وَٱرۡحَمۡنَا وَأَنتَ خَيۡرُ ٱلرَّٲحِمِينَ 
 </blockquote>
 
@@ -429,7 +447,7 @@ Maka Kami beri Nabi Sulaiman memahami hukum yang lebih tepat bagi masalah itu; d
 
 <h3>Surah Al-Mu'minuun, Ayat 118</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَّبِّ ٱغۡفِرۡ وَٱرۡحَمۡ وَأَنتَ خَيۡرُ ٱلرَّٲحِمِينَ
 </blockquote>
 
@@ -439,7 +457,7 @@ Maka Kami beri Nabi Sulaiman memahami hukum yang lebih tepat bagi masalah itu; d
 
 <h3>Surah Al-Furqaan, Ayat 66</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبَّنَا ٱصۡرِفۡ عَنَّا عَذَابَ جَهَنَّمَ‌ۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا إِنَّهَا سَآءَتۡ مُسۡتَقَرًّ۬ا وَمُقَامً۬ا
 </blockquote>
 
@@ -450,7 +468,7 @@ Wahai Tuhan kami, sisihkanlah azab neraka Jahannam dari kami, sesungguhnya azab 
 
 <h3>Surah Al-Furqaan, Ayat 74</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا 
 </blockquote>
 
@@ -461,7 +479,7 @@ Wahai Tuhan kami, sisihkanlah azab neraka Jahannam dari kami, sesungguhnya azab 
 
 <h3>Surah Asy-Syu'araa, Ayat 83-85</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبِّ هَبۡ لِى حُڪۡمً۬ا وَأَلۡحِقۡنِى بِٱلصَّـٰلِحِينَ وَٱجۡعَل لِّى لِسَانَ صِدۡقٍ۬ فِى ٱلۡأَخِرِينَ 
 وَٱجۡعَلۡنِى مِن وَرَثَةِ جَنَّةِ ٱلنَّعِيمِ
 </blockquote>
@@ -474,7 +492,7 @@ Wahai Tuhan kami, sisihkanlah azab neraka Jahannam dari kami, sesungguhnya azab 
 
 <h3>Surah Al-Naml, Ayat 19</h3>
 
-<blockquote>
+<blockquote class="arabic">
 	رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ 
 	
 </blockquote>
@@ -485,7 +503,7 @@ Wahai Tuhan kami, sisihkanlah azab neraka Jahannam dari kami, sesungguhnya azab 
 
 <h3>Surah Al-Qasas, Ayat 16</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي فَغَفَرَ لَهُ ۚ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ 
 </blockquote>
 
@@ -495,7 +513,7 @@ Wahai Tuhan kami, sisihkanlah azab neraka Jahannam dari kami, sesungguhnya azab 
 
 <h3>Surah Al-Qasas, Ayat 21</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ
 </blockquote>
 
@@ -505,7 +523,7 @@ Wahai Tuhan kami, sisihkanlah azab neraka Jahannam dari kami, sesungguhnya azab 
 
 <h3>Surah Al-Qasas, Ayat 24</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰ إِلَى الظِّلِّ فَقَالَ رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِير
 </blockquote>
 
@@ -515,7 +533,7 @@ Wahai Tuhan kami, sisihkanlah azab neraka Jahannam dari kami, sesungguhnya azab 
 
 <h3>Surah Al-'Ankabuut, Ayat 30</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		قَالَ رَبِّ انصُرْنِي عَلَى الْقَوْمِ الْمُفْسِدِينَ 
 </blockquote>
 
@@ -525,7 +543,7 @@ Wahai Tuhan kami, sisihkanlah azab neraka Jahannam dari kami, sesungguhnya azab 
 
 <h3>Surah Al-Faatir, Ayat 2</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		مَّا يَفْتَحِ اللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا ۖ وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُ مِن بَعْدِهِ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ 
 </blockquote>
 
@@ -536,7 +554,7 @@ Wahai Tuhan kami, sisihkanlah azab neraka Jahannam dari kami, sesungguhnya azab 
 	
 <h3>Surah Al-Faatir, Ayat 34</h3>	
 
-<blockquote>
+<blockquote class="arabic">
 		وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنَّا الْحَزَنَ ۖ إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ
 </blockquote>
 
@@ -548,7 +566,7 @@ Dan (sebagai bersyukur) berkatalah mereka: "Segala puji tertentu bagi Allah, yan
 
 <h3>Surah As-Saaffaat, Ayat 100</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ 
 </blockquote>
 
@@ -559,7 +577,7 @@ Dan (sebagai bersyukur) berkatalah mereka: "Segala puji tertentu bagi Allah, yan
 
 <h3>Surah Az-Zumar, Ayat 46</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		قُلِ اللَّهُمَّ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ أَنتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِي مَا كَانُوا فِيهِ يَخْتَلِفُونَ 
 </blockquote>
 
@@ -569,7 +587,7 @@ Dan (sebagai bersyukur) berkatalah mereka: "Segala puji tertentu bagi Allah, yan
 
 <h3>Surah Ghaafir, Ayat 3</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		غَافِرِ الذَّنبِ وَقَابِلِ التَّوْبِ شَدِيدِ الْعِقَابِ ذِي الطَّوْلِ ۖ لَا إِلَٰهَ إِلَّا هُوَ ۖ إِلَيْهِ الْمَصِيرُ 
 </blockquote>
 
@@ -581,7 +599,7 @@ Yang Mengampunkan dosa, dan Yang Menerima taubat; Yang Berat azabNya; Yang Melim
 
 <h3>Surah Ghaafir, Ayat 7-9</h3>
 
-<blockquote>
+<blockquote class="arabic">
 	
 	رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ . رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ ۚ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ. وَقِهِمُ السَّيِّئَاتِ ۚ وَمَن تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ رَحِمْتَهُ ۚ وَذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ 
 </blockquote>
@@ -594,7 +612,7 @@ Yang Mengampunkan dosa, dan Yang Menerima taubat; Yang Berat azabNya; Yang Melim
 	
 <h3>Surah Al-Ahqaaf, Ayat 15</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		قَالَ رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي فِي ذُرِّيَّتِي ۖ إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ 
 </blockquote>
 
@@ -606,7 +624,7 @@ Yang Mengampunkan dosa, dan Yang Menerima taubat; Yang Berat azabNya; Yang Melim
 
 <h3>Surah Al-Hadiid, Ayat 6</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ . لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۖ يُحْيِي وَيُمِيتُ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ . هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ. هُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۚ يَعْلَمُ مَا يَلِجُ فِي الْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ السَّمَاءِ وَمَا يَعْرُجُ فِيهَا ۖ وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ. لَّهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ. يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ ۚ وَهُوَ عَلِيمٌ بِذَاتِ الصُّدُورِ 
 </blockquote>
 
@@ -617,7 +635,7 @@ Segala yang ada di langit dan di bumi tetap mengucap tasbih kepada Allah; dan Di
 	
 <h3>Surah Al-Hasyr, Ayat 10</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَءُوفٌ رَّحِيمٌ 
 
 </blockquote>
@@ -629,7 +647,7 @@ Segala yang ada di langit dan di bumi tetap mengucap tasbih kepada Allah; dan Di
 
 <h3>Surah Al-Hasyr, Ayat 24</h3>
 
-<blockquote>
+<blockquote class="arabic">
 	
 	لَوْ أَنزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُ خَاشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللَّهِ ۚ وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ . هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَٰنُ الرَّحِيمُ . هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ ۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ . هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ
 </blockquote>
@@ -641,7 +659,7 @@ Segala yang ada di langit dan di bumi tetap mengucap tasbih kepada Allah; dan Di
 	
 <h3>Surah Al-Mumtahanah, Ayat 5</h3>
 
-<blockquote>
+<blockquote class="arabic">
 		رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ. رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا ۖ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ 
 
 </blockquote>
