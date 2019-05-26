@@ -38,7 +38,8 @@ h3	{
 
 <h3>Doa Surah Al-Baqarah, Ayat 127-128</h3>
 <blockquote class="arabic">
-	رَبَّنَا تَقَبَّلْ مِنَّا ۖ إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُرَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِنْ ذُرِّيَّتِنَا أُمَّةً مُسْلِمَةً لَكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا ۖ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ
+	رَبَّنَا تَقَبَّلْ مِنَّا ۖ إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ 
+	رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَا أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا ۖ إِنَّكَ أَنتَ التَّوَّابُ الرَّحِيمُ
 
 </blockquote>
 
@@ -76,11 +77,11 @@ h3	{
 
 
 <blockquote class="arabic">
-رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
+	لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
 </blockquote>
 
 <blockquote>
-“Ya Allah, jangan siksa kami karena lupa atau bersalah. Ya Allah, jangan bebankan pada kami beban berat seperti Kau bebankan pada orang‐orang sebelum kami. Ya Allah, jangan Kau pikulkan pada kami apa yang tidak sanggup kami pikul. Ampunilah dan maafkan kami, serta rahmatilah kami. Kaulah Penolong kami, maka tolonglah kami untuk mengalahkan orang‐orang kafir.”
+Allah tidak memberati seseorang melainkan apa yang terdaya olehnya. Ia mendapat pahala kebaikan yang diusahakannya, dan ia juga menanggung dosa kejahatan yang diusahakannya. (Mereka berdoa dengan berkata): "Wahai Tuhan kami! Janganlah Engkau mengirakan kami salah jika kami lupa atau kami tersalah. Wahai Tuhan kami ! Janganlah Engkau bebankan kepada kami bebanan yang berat sebagaimana yang telah Engkau bebankan kepada orang-orang yang terdahulu daripada kami. Wahai Tuhan kami! Janganlah Engkau pikulkan kepada kami apa yang kami tidak terdaya memikulnya. Dan maafkanlah kesalahan kami, serta ampunkanlah dosa kami, dan berilah rahmat kepada kami. Engkaulah Penolong kami; oleh itu, tolonglah kami untuk mencapai kemenangan terhadap kaum-kaum yang kafir".
 </blockquote>
 
 <h3>Doa Surah Al-Imran, Ayat 8</h3>
@@ -99,7 +100,7 @@ h3	{
 
 
 <blockquote class="arabic">
-		رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوۡمٍ۬ لَّا رَيۡبَ فِيهِ‌ۚ إِنَّ ٱللَّهَ لَا يُخۡلِفُ ٱلۡمِيعَادَ
+رَبَّنَا إِنَّكَ جَامِعُ النَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ ۚ إِنَّ اللَّهَ لَا يُخْلِفُ الْمِيعَادَ 
 </blockquote>
 
 <blockquote>
@@ -110,7 +111,7 @@ h3	{
 
 
 <blockquote class="arabic">
-		رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغۡفِرۡ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ
+رَبَّنَا إِنَّنَا آمَنَّا فَاغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ النَّارِ 
 </blockquote>
 
 <blockquote>
@@ -131,7 +132,7 @@ h3	{
 <h3>Doa Surah Al-Imran, Ayat 53</h3>
 
 <blockquote class="arabic">
-		رَبَّنَآ ءَامَنَّا بِمَآ أَنزَلۡتَ وَٱتَّبَعۡنَا ٱلرَّسُولَ فَٱڪۡتُبۡنَا مَعَ ٱلشَّـٰهِدِينَ
+رَبَّنَا آمَنَّا بِمَا أَنزَلْتَ وَاتَّبَعْنَا الرَّسُولَ فَاكْتُبْنَا مَعَ الشَّاهِدِينَ 
 </blockquote>
 
 <blockquote>
@@ -144,7 +145,7 @@ h3	{
 
 <blockquote class="arabic">
 
-		رَبَّنَا ٱغۡفِرۡ لَنَا ذُنُوبَنَا وَإِسۡرَافَنَا فِىٓ أَمۡرِنَا وَثَبِّتۡ أَقۡدَامَنَا وَٱنصُرۡنَا عَلَى ٱلۡقَوۡمِ ٱلۡڪَـٰفِرِينَ 
+ رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
 </blockquote>
 
 <blockquote>
@@ -183,7 +184,7 @@ h3	{
 
 <blockquote class="arabic">
 
-		رَبَّنَآ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّـٰهِدِينَ
+رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ 
 </blockquote>
 
 <blockquote>
@@ -194,7 +195,7 @@ h3	{
 
 <blockquote class="arabic">
 
-		رَبَّنَآ أَنزِلۡ عَلَيۡنَا مَآٮِٕدَةً۬ مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيدً۬ا لِّأَوَّلِنَا وَءَاخِرِنَا وَءَايَةً۬ مِّنكَ‌ۖ وَٱرۡزُقۡنَا وَأَنتَ خَيۡرُ ٱلرَّٲزِقِينَ
+ اللَّهُمَّ رَبَّنَا أَنزِلْ عَلَيْنَا مَائِدَةً مِّنَ السَّمَاءِ تَكُونُ لَنَا عِيدًا لِّأَوَّلِنَا وَآخِرِنَا وَآيَةً مِّنكَ ۖ وَارْزُقْنَا وَأَنتَ خَيْرُ الرَّازِقِينَ 
 </blockquote>
 
 <blockquote>
@@ -239,7 +240,7 @@ h3	{
 <h3>Surah Al-A'raaf, Ayat 126</h3>
 
 <blockquote class="arabic">
-		رَبَّنَآ أَفۡرِغۡ عَلَيۡنَا صَبۡرً۬ا وَتَوَفَّنَا مُسۡلِمِينَ
+ رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ 
 </blockquote>
 
 <blockquote>
@@ -249,7 +250,7 @@ h3	{
 <h3>Surah Al-A'raaf, Ayat 151</h3>
 
 <blockquote class="arabic">
-		رَبِّ ٱغۡفِرۡ لِى وَلِأَخِى وَأَدۡخِلۡنَا فِى رَحۡمَتِكَ‌ۖ وَأَنتَ أَرۡحَمُ ٱلرَّٲحِمِينَ
+رَبِّ اغْفِرْ لِي وَلِأَخِي وَأَدْخِلْنَا فِي رَحْمَتِكَ ۖ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ 
 </blockquote>
 
 
@@ -261,7 +262,8 @@ h3	{
 
 
 <blockquote class="arabic">
-		أَنتَ وَلِيُّنَا فَٱغۡفِرۡ لَنَا وَٱرۡحَمۡنَا‌ۖ وَأَنتَ خَيۡرُ ٱلۡغَـٰفِرِينَ وَٱڪۡتُبۡ لَنَا فِى هَـٰذِهِ ٱلدُّنۡيَا حَسَنَةً۬ وَفِى ٱلۡأَخِرَةِ إِنَّا هُدۡنَآ إِلَيۡكَ‌ۚ
+أَنتَ وَلِيُّنَا فَاغْفِرْ لَنَا وَارْحَمْنَا ۖ وَأَنتَ خَيْرُ الْغَافِرِينَ
+وَاكْتُبْ لَنَا فِي هَٰذِهِ الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ إِنَّا هُدْنَا إِلَيْكَ 
 </blockquote>
 
 <blockquote>
@@ -292,7 +294,7 @@ h3	{
 <h3>Surah Ibrahim, Ayat 35</h3>
 
 <blockquote class="arabic">
-		رَبِّ ٱجۡعَلۡ هَـٰذَا ٱلۡبَلَدَ ءَامِنً۬ا وَٱجۡنُبۡنِى وَبَنِىَّ أَن نَّعۡبُدَ ٱلۡأَصۡنَامَ
+ رَبِّ اجْعَلْ هَٰذَا الْبَلَدَ آمِنًا وَاجْنُبْنِي وَبَنِيَّ أَن نَّعْبُدَ الْأَصْنَامَ
 </blockquote>
 
 <blockquote>
@@ -312,7 +314,7 @@ h3	{
 <h3>Surah Al-Israa, Ayat 24</h3>
 
 <blockquote class="arabic">
-		رَّبِّ ٱرۡحَمۡهُمَا كَمَا رَبَّيَانِى صَغِيرً۬ا
+رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا 
 </blockquote>
 
 <blockquote>
@@ -356,7 +358,7 @@ h3	{
 <h3>Surah Thoha, Ayat 114</h3>
 
 <blockquote class="arabic">
-		رَّبِّ زِدۡنِى عِلۡمً۬ا
+رَّبِّ زِدْنِي عِلْمًا 
 </blockquote>
 
 <blockquote>
@@ -367,7 +369,7 @@ h3	{
 <h3>Surah Al-Anbiya, Ayat 79</h3>
 
 <blockquote class="arabic">
-		 فَفَهَّمۡنَـٰهَا سُلَيۡمَـٰنَ‌ۚ وَڪُلاًّ ءَاتَيۡنَا حُكۡمً۬ا وَعِلۡمً۬ا‌ۚ وَسَخَّرۡنَا مَعَ دَاوُ ۥدَ ٱلۡجِبَالَ يُسَبِّحۡنَ وَٱلطَّيۡرَ‌ۚ وَڪُنَّا فَـٰعِلِينَ
+فَفَهَّمْنَاهَا سُلَيْمَانَ ۚ وَكُلًّا آتَيْنَا حُكْمًا وَعِلْمًا ۚ وَسَخَّرْنَا مَعَ دَاوُودَ الْجِبَالَ يُسَبِّحْنَ وَالطَّيْرَ ۚ وَكُنَّا فَاعِلِينَ 
 </blockquote>
 
 <blockquote>
@@ -388,7 +390,7 @@ Maka Kami beri Nabi Sulaiman memahami hukum yang lebih tepat bagi masalah itu; d
 <h3>Surah Al-Anbiya, Ayat 89</h3>
 
 <blockquote class="arabic">
-		رَبِّ لَا تَذَرۡنِى فَرۡدً۬ا وَأَنتَ خَيۡرُ ٱلۡوَٲرِثِينَ
+رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنتَ خَيْرُ الْوَارِثِينَ
 </blockquote>
 
 <blockquote>
@@ -398,7 +400,7 @@ Maka Kami beri Nabi Sulaiman memahami hukum yang lebih tepat bagi masalah itu; d
 <h3>Surah Al-Anbiya, Ayat 112</h3>
 
 <blockquote class="arabic">
-		رَبِّ ٱحۡكُم بِٱلۡحَقِّ‌ۗ وَرَبُّنَا ٱلرَّحۡمَـٰنُ ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ
+رَبِّ احْكُم بِالْحَقِّ ۗ وَرَبُّنَا الرَّحْمَٰنُ الْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ
 </blockquote>
 
 <blockquote>
@@ -408,7 +410,7 @@ Maka Kami beri Nabi Sulaiman memahami hukum yang lebih tepat bagi masalah itu; d
 <h3>Surah Al-Mu'minuun, Ayat 29</h3>
 
 <blockquote class="arabic">
-		رَّبِّ أَنزِلۡنِى مُنزَلاً۬ مُّبَارَكً۬ا وَأَنتَ خَيۡرُ ٱلۡمُنزِلِينَ
+رَّبِّ أَنزِلْنِي مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ الْمُنزِلِينَ
 </blockquote>
 
 <blockquote>
@@ -419,7 +421,7 @@ Maka Kami beri Nabi Sulaiman memahami hukum yang lebih tepat bagi masalah itu; d
 <h3>Surah Al-Mu'minuun, Ayat 94</h3>
 
 <blockquote class="arabic">
-		رَبِّ فَلَا تَجۡعَلۡنِى فِى ٱلۡقَوۡمِ ٱلظَّـٰلِمِينَ
+رَبِّ فَلَا تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ 
 </blockquote>
 
 <blockquote>
@@ -436,9 +438,12 @@ Maka Kami beri Nabi Sulaiman memahami hukum yang lebih tepat bagi masalah itu; d
 	“Ya Allah, aku berlindung pada‐Mu dari bisikan‐bisikan setan. Dan aku berlindung pada‐ Mu, dari kedatangan mereka padaku.”  
 </blockquote>
 
+<h3>Surah Al-Mu'minuun, Ayat 109</h3>
+
+
 
 <blockquote class="arabic">
-		رَبَّنَآ ءَامَنَّا فَٱغۡفِرۡ لَنَا وَٱرۡحَمۡنَا وَأَنتَ خَيۡرُ ٱلرَّٲحِمِينَ 
+ رَبَّنَا آمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنتَ خَيْرُ الرَّاحِمِينَ
 </blockquote>
 
 <blockquote>
@@ -448,17 +453,18 @@ Maka Kami beri Nabi Sulaiman memahami hukum yang lebih tepat bagi masalah itu; d
 <h3>Surah Al-Mu'minuun, Ayat 118</h3>
 
 <blockquote class="arabic">
-		رَّبِّ ٱغۡفِرۡ وَٱرۡحَمۡ وَأَنتَ خَيۡرُ ٱلرَّٲحِمِينَ
+رَّبِّ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ 
 </blockquote>
 
 <blockquote>
 	"Wahai Tuhanku, berikanlah ampun dan kurniakan rahmat, dan sememangnya Engkaulah sahaja sebaik-baik Pemberi rahmat!"
 </blockquote>
 
-<h3>Surah Al-Furqaan, Ayat 66</h3>
+<h3>Surah Al-Furqaan, Ayat 65-66</h3>
 
 <blockquote class="arabic">
-		رَبَّنَا ٱصۡرِفۡ عَنَّا عَذَابَ جَهَنَّمَ‌ۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا إِنَّهَا سَآءَتۡ مُسۡتَقَرًّ۬ا وَمُقَامً۬ا
+	رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا
+	إِنَّهَا سَاءَتْ مُسْتَقَرًّا وَمُقَامًا
 </blockquote>
 
 <blockquote>
@@ -480,8 +486,9 @@ Wahai Tuhan kami, sisihkanlah azab neraka Jahannam dari kami, sesungguhnya azab 
 <h3>Surah Asy-Syu'araa, Ayat 83-85</h3>
 
 <blockquote class="arabic">
-		رَبِّ هَبۡ لِى حُڪۡمً۬ا وَأَلۡحِقۡنِى بِٱلصَّـٰلِحِينَ وَٱجۡعَل لِّى لِسَانَ صِدۡقٍ۬ فِى ٱلۡأَخِرِينَ 
-وَٱجۡعَلۡنِى مِن وَرَثَةِ جَنَّةِ ٱلنَّعِيمِ
+	رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ 
+	وَاجْعَل لِّي لِسَانَ صِدْقٍ فِي الْآخِرِينَ 
+	وَاجْعَلْنِي مِن وَرَثَةِ جَنَّةِ النَّعِيمِ 
 </blockquote>
 
 
