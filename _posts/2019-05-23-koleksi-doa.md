@@ -35,6 +35,9 @@ h3	{
 
 
 
+<a href="https://s3-ap-southeast-1.amazonaws.com/mllabs-storage/Koleksi+Doa+daripada+Quran.pdf" download style="padding: 20px; background-color: black; font-size: 15px; color: white">Muat Turun Dalam PDF</a>
+
+
 
 <h3>Doa Surah Al-Baqarah, Ayat 127-128</h3>
 <blockquote class="arabic">
