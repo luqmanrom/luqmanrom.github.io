@@ -14,11 +14,11 @@ date:   2019-05-23 22:49:08
 <style type="text/css">
 
 * {
-	font-family: 'me-quran', serif;
+	font-family: 'KFGQPC', serif;
 }
 
 blockquote.arabic {
-	line-height: 3;
+	line-height: 2.5;
 	letter-spacing: 1.5px;
 	font-size: 38px;
 }
